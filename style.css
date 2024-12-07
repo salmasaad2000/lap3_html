@@ -42,6 +42,7 @@ body{
     color: rgb(189, 186, 186);
 }
 .main-card{
+    text-align: center;
     margin-top: 100px;
 }
 .main-card h3{
@@ -63,8 +64,8 @@ body{
     border-radius: 50%;
 }
 .main-card .card .social img {
-    height: 40px; 
-    width: 60px;
+    height: 20px; 
+    width: 30px;
 }
 .main-card .card div{
 display: inline;
